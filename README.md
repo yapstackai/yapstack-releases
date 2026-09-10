@@ -1,6 +1,6 @@
 # YapStack Releases
 
-Public release artifacts for [YapStack](https://yapstack.ai).
+Public release artifacts for [YapStack](https://yapstack-voice-magic.lovable.app/).
 
 Source code is not hosted here — this repository only publishes signed macOS installers.
 
