@@ -24,4 +24,6 @@ Download the latest DMG from [Releases](https://github.com/yapstackai/yapstack-r
 
 ## Requirements
 
-- macOS on Apple Silicon (arm64)
+- macOS 10.15 or later
+- **Apple Silicon:** `yapstack_aarch64.dmg`
+- **Intel:** `yapstack_x86_64.dmg` (published after the arm64 job in the release pipeline)
